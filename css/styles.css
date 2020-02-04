@@ -50,16 +50,21 @@ h2 {
   color: black;
   text-align: center;
   font-size: 1.3em;
-  margin-bottom: 0px;
+  margin-bottom: -5px;
+  background-color: #e1e3e3;
 
 }
 
 body p {
   background-color: #e1e3e3 !important;
+  
 }
 
-body p h2{
+body a h2{
   background-color: #e1e3e3 !important;
+  margin-left: 15px;
+  margin-right: 15px;
+
 }
 
 
@@ -68,10 +73,12 @@ body p h2{
   text-decoration: none;
 }
 
-#pretty {
+.blabla{
   padding-left: 15px;
   padding-right: 15px;
-  background-color :  = #e1e3e3
+  margin-left: 15px;
+  margin-right: 15px;
+  
 }
 
 #iconbars{
