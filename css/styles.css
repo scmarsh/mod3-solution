@@ -1,0 +1,152 @@
+/** HEADER **/
+#header-nav {
+  background-color: #d7d9d9;
+  border-radius: 0;
+  border: 0px;
+  margin-bottom: 0px;
+  position: relative;
+
+
+
+
+}
+
+.navbar-header {
+  padding-top: 40px;
+
+  
+}
+
+button #bs-example-navbar-collapse-1 {
+
+  float: right;
+  
+}
+
+.navbar-brand {
+  padding-top: 10vh;
+
+}
+
+.blabla {
+  background-color:  = #e1e3e3 !important
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+h1 { /* Restaurant name */
+  font-family: 'Lora', serif;
+  color: black;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: -20vh;
+  
+  line-height: 40%;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-size: 1.3em;
+  margin-bottom: 0px;
+
+}
+
+body p {
+  background-color: #e1e3e3 !important;
+}
+
+body p h2{
+  background-color: #e1e3e3 !important;
+}
+
+
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#pretty {
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color :  = #e1e3e3
+}
+
+#iconbars{
+  display:block;
+
+}
+
+
+#nav-list li a{
+  margin-top: 0px;
+  text-align: center;
+  font-size: .8em;
+}
+#nav-list li {
+  color: black;
+  background: white;
+  text-align: center;
+  border: 2px solid black;
+}
+#nav-list a:hover {
+  background: #e1e3e3;
+}
+#nav-list a {
+  font-size: 1.8em;
+  color: black;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid white; 
+  }
+
+.navbar-header button.navbar-toggle.collapsed, .navbar-header .icon-bar {
+  border: 1px solid black; 
+  }
+
+.navbar-header button.navbar-toggle .icon-bar {
+  border: 1px solid white;
+}
+
+.navbar-header button.navbar-toggle.collapsed .icon-bar {
+  border: 1px solid black;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+}
+#nav-list li:hover {
+  background: #E7E7E7;
+}
+#nav-list li {
+  font-size: 1.8em;
+
+
+
+
+
+
+
+}
+/* END HEADER */
+#top-menu {
+  position: relative;
+  font-size: 1.5em;
+  text-align: center;
+
+}
+
+
+}
